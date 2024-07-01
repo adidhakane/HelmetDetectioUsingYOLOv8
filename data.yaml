@@ -1,0 +1,11 @@
+names: ['Helmet','No_Helmet']
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: helmet_v3
+  url: https://universe.roboflow.com/helmetdetection-kshhr/helmet_v3/dataset/1
+  version: 1
+  workspace: helmetdetection-kshhr
+test: C:\Users\ASUS\Desktop\HelmetDetectionFinal\data\test\images
+train: C:\Users\ASUS\Desktop\HelmetDetectionFinal\data\train\images
+val: C:\Users\ASUS\Desktop\HelmetDetectionFinal\data\valid\images
